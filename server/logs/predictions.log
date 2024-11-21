@@ -1,0 +1,26 @@
+2024-11-06 13:37:32,267 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-06 13:37:32,761 - INFO - Predictions saved to temp/timings/timings_client1.txt
+2024-11-06 13:37:39,467 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-06 13:37:39,814 - INFO - Predictions saved to temp/timings/timings_client1.txt
+2024-11-06 13:37:39,890 - INFO - Predictions saved to temp/timings/timings_client2.txt
+2024-11-06 13:38:11,689 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-06 13:38:12,158 - INFO - Predictions saved to temp/timings/timings_client1.txt
+2024-11-06 13:38:12,253 - INFO - Predictions saved to temp/timings/timings_client2.txt
+2024-11-06 13:38:21,364 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-06 13:38:21,785 - INFO - Predictions saved to temp/timings/timings_client1.txt
+2024-11-06 13:38:21,863 - INFO - Predictions saved to temp/timings/timings_client2.txt
+2024-11-06 13:38:52,656 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-06 13:38:53,093 - INFO - Predictions saved to temp/timings/timings_client1.txt
+2024-11-06 13:38:53,178 - INFO - Predictions saved to temp/timings/timings_client2.txt
+2024-11-06 13:39:00,787 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-06 13:39:01,201 - INFO - Predictions saved to temp/timings/timings_client1.txt
+2024-11-06 13:39:01,282 - INFO - Predictions saved to temp/timings/timings_client2.txt
+2024-11-06 13:39:33,170 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-06 13:39:33,576 - INFO - Predictions saved to temp/timings/timings_client1.txt
+2024-11-06 13:39:33,654 - INFO - Predictions saved to temp/timings/timings_client2.txt
+2024-11-06 13:39:42,857 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-06 13:39:43,270 - INFO - Predictions saved to temp/timings/timings_client1.txt
+2024-11-06 13:39:43,349 - INFO - Predictions saved to temp/timings/timings_client2.txt
+2024-11-06 13:40:13,326 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2024-11-06 13:40:13,759 - INFO - Predictions saved to temp/timings/timings_client1.txt
+2024-11-06 13:40:13,840 - INFO - Predictions saved to temp/timings/timings_client2.txt

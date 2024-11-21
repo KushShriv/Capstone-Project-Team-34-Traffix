@@ -1,0 +1,34 @@
+2024-11-06 13:37:08,716 - INFO - ====== WebDriver manager ======
+2024-11-06 13:37:10,076 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 13:37:10,250 - INFO - Get LATEST chromedriver version for google-chrome
+2024-11-06 13:37:10,398 - INFO - Driver [C:\Users\kusha\.wdm\drivers\chromedriver\win64\130.0.6723.93\chromedriver-win32/chromedriver.exe] found in cache
+2024-11-06 13:37:22,477 - INFO - Screenshot taken for client1 at location 'arekere': temp/images/client1_map.png
+2024-11-06 13:37:22,487 - INFO - process_image.py started for temp/images/client1_map.png
+2024-11-06 13:37:22,497 - INFO - prediction.py started for temp/images/client1_map.png
+2024-11-06 13:37:32,790 - INFO - Screenshot taken for client2 at location 'jp_nagar': temp/images/client2_map.png
+2024-11-06 13:37:32,800 - INFO - process_image.py started for temp/images/client2_map.png
+2024-11-06 13:37:32,808 - INFO - prediction.py started for temp/images/client2_map.png
+2024-11-06 13:38:03,080 - INFO - Screenshot taken for client1 at location 'arekere': temp/images/client1_map.png
+2024-11-06 13:38:03,090 - INFO - process_image.py started for temp/images/client1_map.png
+2024-11-06 13:38:03,091 - INFO - prediction.py started for temp/images/client1_map.png
+2024-11-06 13:38:13,393 - INFO - Screenshot taken for client2 at location 'jp_nagar': temp/images/client2_map.png
+2024-11-06 13:38:13,399 - INFO - process_image.py started for temp/images/client2_map.png
+2024-11-06 13:38:13,401 - INFO - prediction.py started for temp/images/client2_map.png
+2024-11-06 13:38:43,682 - INFO - Screenshot taken for client1 at location 'arekere': temp/images/client1_map.png
+2024-11-06 13:38:43,688 - INFO - process_image.py started for temp/images/client1_map.png
+2024-11-06 13:38:43,691 - INFO - prediction.py started for temp/images/client1_map.png
+2024-11-06 13:38:54,027 - INFO - Screenshot taken for client2 at location 'jp_nagar': temp/images/client2_map.png
+2024-11-06 13:38:54,031 - INFO - process_image.py started for temp/images/client2_map.png
+2024-11-06 13:38:54,035 - INFO - prediction.py started for temp/images/client2_map.png
+2024-11-06 13:39:24,306 - INFO - Screenshot taken for client1 at location 'arekere': temp/images/client1_map.png
+2024-11-06 13:39:24,311 - INFO - process_image.py started for temp/images/client1_map.png
+2024-11-06 13:39:24,314 - INFO - prediction.py started for temp/images/client1_map.png
+2024-11-06 13:39:34,606 - INFO - Screenshot taken for client2 at location 'jp_nagar': temp/images/client2_map.png
+2024-11-06 13:39:34,610 - INFO - process_image.py started for temp/images/client2_map.png
+2024-11-06 13:39:34,614 - INFO - prediction.py started for temp/images/client2_map.png
+2024-11-06 13:40:04,939 - INFO - Screenshot taken for client1 at location 'arekere': temp/images/client1_map.png
+2024-11-06 13:40:04,946 - INFO - process_image.py started for temp/images/client1_map.png
+2024-11-06 13:40:04,950 - INFO - prediction.py started for temp/images/client1_map.png
+2024-11-06 13:40:15,514 - INFO - Screenshot taken for client2 at location 'jp_nagar': temp/images/client2_map.png
+2024-11-06 13:40:15,519 - INFO - process_image.py started for temp/images/client2_map.png
+2024-11-06 13:40:15,521 - INFO - prediction.py started for temp/images/client2_map.png

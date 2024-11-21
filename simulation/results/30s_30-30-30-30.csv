@@ -1,0 +1,15 @@
+Metric,Value
+Our Score,7538
+Total Iterations,10000
+Cleared Quicker Count,1607
+Cleared Quicker Value,2719080
+Default Cleared Quicker Count,2461
+Default Cleared Quicker Value,19786890
+Cleared and Default Failed Count,5929
+Cleared and Default Failed Value,30265230
+Failed and Default Cleared Count,1
+Failed and Default Cleared Value,2520
+Congested Quicker Count,0
+Congested Quicker Value,0
+Default Congested Quicker Count,2
+Default Congested Quicker Value,0

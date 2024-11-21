@@ -1,0 +1,280 @@
+
+==================================================
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Test Results for 10000 iterations against [[30, 30, 30, 30]]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+==================================================
+
+-----------------------------------------------
+-----------------------------------------------
+Our Score: 7636
+Total Iterations: 10000
+Cleared Quicker Count: 1606
+Cleared Quicker Value: 2741205
+Default Cleared Quicker Count: 2364
+Default Cleared Quicker Value: 13399010
+Cleared and Default Failed Count: 6030
+Cleared and Default Failed Value: 23981420
+Failed and Default Cleared Count: 0
+Failed and Default Cleared Value: 0
+Congested Quicker Count: 0
+Congested Quicker Value: 0
+Default Congested Quicker Count: 0
+Default Congested Quicker Value: 0
+-----------------------------------------------
+-----------------------------------------------
+
+-----------------------------------------------
+-----------------------------------------------
+Times Our Model is Better: 7636
+Percentage Our Model is Better: 0.7636
+Times Default Timing is Better: 2364
+Percentage Default Timing is Better: 0.2364
+-----------------------------------------------
+-----------------------------------------------
+Times Our Model Cleared: 7636
+Percentage Our Model Cleared: 0.7636
+Times Default Timing Cleared: 1606
+Percentage Default Timing Cleared: 0.1606
+When Both Cleared: 3970
+When One Cleared: 6030
+-----------------------------------------------
+When Our Model Cleared - Average Time Taken: 5683.870670516244
+When Default Timing Cleared - Average Time Taken: 5667.939932318105
+-----------------------------------------------
+-----------------------------------------------
+Times Ours Congested: 0
+Times Default Congested: 1606
+-----------------------------------------------
+Ours Congested - Average Time Taken: 0.0
+Default Congested - Average Time Taken: 1706.8524283935242
+-----------------------------------------------
+-----------------------------------------------
+
+
+
+==================================================
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Test Results for 10000 iterations against [[60, 30, 60, 30]]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+==================================================
+
+-----------------------------------------------
+-----------------------------------------------
+Our Score: 7771
+Total Iterations: 10000
+Cleared Quicker Count: 1645
+Cleared Quicker Value: 4306445
+Default Cleared Quicker Count: 2229
+Default Cleared Quicker Value: 11634855
+Cleared and Default Failed Count: 6126
+Cleared and Default Failed Value: 24132480
+Failed and Default Cleared Count: 0
+Failed and Default Cleared Value: 0
+Congested Quicker Count: 0
+Congested Quicker Value: 0
+Default Congested Quicker Count: 0
+Default Congested Quicker Value: 0
+-----------------------------------------------
+-----------------------------------------------
+
+-----------------------------------------------
+-----------------------------------------------
+Times Our Model is Better: 7771
+Percentage Our Model is Better: 0.7771
+Times Default Timing is Better: 2229
+Percentage Default Timing is Better: 0.2229
+-----------------------------------------------
+-----------------------------------------------
+Times Our Model Cleared: 7771
+Percentage Our Model Cleared: 0.7771
+Times Default Timing Cleared: 1645
+Percentage Default Timing Cleared: 0.1645
+When Both Cleared: 3874
+When One Cleared: 6126
+-----------------------------------------------
+When Our Model Cleared - Average Time Taken: 6557.253270975174
+When Default Timing Cleared - Average Time Taken: 5219.764468371467
+-----------------------------------------------
+-----------------------------------------------
+Times Ours Congested: 0
+Times Default Congested: 1645
+-----------------------------------------------
+Ours Congested - Average Time Taken: 0.0
+Default Congested - Average Time Taken: 2617.899696048632
+-----------------------------------------------
+-----------------------------------------------
+
+
+
+==================================================
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Test Results for 10000 iterations against [[60, 60, 60, 60]]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+==================================================
+
+-----------------------------------------------
+-----------------------------------------------
+Our Score: 7691
+Total Iterations: 10000
+Cleared Quicker Count: 1636
+Cleared Quicker Value: 2818565
+Default Cleared Quicker Count: 2309
+Default Cleared Quicker Value: 12951150
+Cleared and Default Failed Count: 6055
+Cleared and Default Failed Value: 23841295
+Failed and Default Cleared Count: 0
+Failed and Default Cleared Value: 0
+Congested Quicker Count: 0
+Congested Quicker Value: 0
+Default Congested Quicker Count: 0
+Default Congested Quicker Value: 0
+-----------------------------------------------
+-----------------------------------------------
+
+-----------------------------------------------
+-----------------------------------------------
+Times Our Model is Better: 7691
+Percentage Our Model is Better: 0.7691
+Times Default Timing is Better: 2309
+Percentage Default Timing is Better: 0.2309
+-----------------------------------------------
+-----------------------------------------------
+Times Our Model Cleared: 7691
+Percentage Our Model Cleared: 0.7691
+Times Default Timing Cleared: 1636
+Percentage Default Timing Cleared: 0.1636
+When Both Cleared: 3945
+When One Cleared: 6055
+-----------------------------------------------
+When Our Model Cleared - Average Time Taken: 5660.295063688802
+When Default Timing Cleared - Average Time Taken: 5608.986574274578
+-----------------------------------------------
+-----------------------------------------------
+Times Ours Congested: 0
+Times Default Congested: 1636
+-----------------------------------------------
+Ours Congested - Average Time Taken: 0.0
+Default Congested - Average Time Taken: 1722.8392420537898
+-----------------------------------------------
+-----------------------------------------------
+
+
+
+==================================================
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Test Results for 10000 iterations against [[90, 60, 90, 60]]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+==================================================
+
+-----------------------------------------------
+-----------------------------------------------
+Our Score: 7665
+Total Iterations: 10000
+Cleared Quicker Count: 1637
+Cleared Quicker Value: 3538005
+Default Cleared Quicker Count: 2335
+Default Cleared Quicker Value: 12101895
+Cleared and Default Failed Count: 6028
+Cleared and Default Failed Value: 24133720
+Failed and Default Cleared Count: 0
+Failed and Default Cleared Value: 0
+Congested Quicker Count: 0
+Congested Quicker Value: 0
+Default Congested Quicker Count: 0
+Default Congested Quicker Value: 0
+-----------------------------------------------
+-----------------------------------------------
+
+-----------------------------------------------
+-----------------------------------------------
+Times Our Model is Better: 7665
+Percentage Our Model is Better: 0.7665
+Times Default Timing is Better: 2335
+Percentage Default Timing is Better: 0.2335
+-----------------------------------------------
+-----------------------------------------------
+Times Our Model Cleared: 7665
+Percentage Our Model Cleared: 0.7665
+Times Default Timing Cleared: 1637
+Percentage Default Timing Cleared: 0.1637
+When Both Cleared: 3972
+When One Cleared: 6028
+-----------------------------------------------
+When Our Model Cleared - Average Time Taken: 6164.876856486062
+When Default Timing Cleared - Average Time Taken: 5182.824411134904
+-----------------------------------------------
+-----------------------------------------------
+Times Ours Congested: 0
+Times Default Congested: 1637
+-----------------------------------------------
+Ours Congested - Average Time Taken: 0.0
+Default Congested - Average Time Taken: 2161.2736713500303
+-----------------------------------------------
+-----------------------------------------------
+
+
+
+==================================================
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Test Results for 10000 iterations against [[90, 90, 90, 90]]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+==================================================
+
+-----------------------------------------------
+-----------------------------------------------
+Our Score: 7616
+Total Iterations: 10000
+Cleared Quicker Count: 1641
+Cleared Quicker Value: 2844225
+Default Cleared Quicker Count: 2384
+Default Cleared Quicker Value: 12702035
+Cleared and Default Failed Count: 5975
+Cleared and Default Failed Value: 23770475
+Failed and Default Cleared Count: 0
+Failed and Default Cleared Value: 0
+Congested Quicker Count: 0
+Congested Quicker Value: 0
+Default Congested Quicker Count: 0
+Default Congested Quicker Value: 0
+-----------------------------------------------
+-----------------------------------------------
+
+-----------------------------------------------
+-----------------------------------------------
+Times Our Model is Better: 7616
+Percentage Our Model is Better: 0.7616
+Times Default Timing is Better: 2384
+Percentage Default Timing is Better: 0.2384
+-----------------------------------------------
+-----------------------------------------------
+Times Our Model Cleared: 7616
+Percentage Our Model Cleared: 0.7616
+Times Default Timing Cleared: 1641
+Percentage Default Timing Cleared: 0.1641
+When Both Cleared: 4025
+When One Cleared: 5975
+-----------------------------------------------
+When Our Model Cleared - Average Time Taken: 5711.548866774265
+When Default Timing Cleared - Average Time Taken: 5328.034815436242
+-----------------------------------------------
+-----------------------------------------------
+Times Ours Congested: 0
+Times Default Congested: 1641
+-----------------------------------------------
+Ours Congested - Average Time Taken: 0.0
+Default Congested - Average Time Taken: 1733.2266910420476
+-----------------------------------------------
+-----------------------------------------------
+
+

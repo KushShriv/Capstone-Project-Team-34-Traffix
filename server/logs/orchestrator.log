@@ -1,0 +1,27 @@
+2024-11-06 13:37:07,252 - Server started at 127.0.0.1:9999
+2024-11-06 13:37:08,842 - Client client1 connected.
+2024-11-06 13:37:08,842 - Received heartbeat from client1.
+2024-11-06 13:37:10,590 - Client client2 connected.
+2024-11-06 13:37:10,592 - Received heartbeat from client2.
+2024-11-06 13:37:28,843 - Received heartbeat from client1.
+2024-11-06 13:37:30,593 - Received heartbeat from client2.
+2024-11-06 13:37:48,844 - Received heartbeat from client1.
+2024-11-06 13:37:48,862 - Sent updated output to client1: [46, 48, 46, 55]
+2024-11-06 13:37:50,594 - Received heartbeat from client2.
+2024-11-06 13:37:50,614 - Sent updated output to client2: [49, 50, 58, 67]
+2024-11-06 13:38:08,845 - Received heartbeat from client1.
+2024-11-06 13:38:10,596 - Received heartbeat from client2.
+2024-11-06 13:38:28,846 - Received heartbeat from client1.
+2024-11-06 13:38:30,597 - Received heartbeat from client2.
+2024-11-06 13:38:48,854 - Received heartbeat from client1.
+2024-11-06 13:38:50,598 - Received heartbeat from client2.
+2024-11-06 13:39:08,854 - Received heartbeat from client1.
+2024-11-06 13:39:08,867 - Sent updated output to client1: [60, 45, 47, 61]
+2024-11-06 13:39:10,598 - Received heartbeat from client2.
+2024-11-06 13:39:10,607 - Sent updated output to client2: [45, 63, 49, 62]
+2024-11-06 13:39:28,855 - Received heartbeat from client1.
+2024-11-06 13:39:30,599 - Received heartbeat from client2.
+2024-11-06 13:39:48,855 - Received heartbeat from client1.
+2024-11-06 13:39:50,600 - Received heartbeat from client2.
+2024-11-06 13:40:08,856 - Received heartbeat from client1.
+2024-11-06 13:40:10,600 - Received heartbeat from client2.

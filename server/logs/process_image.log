@@ -1,0 +1,266 @@
+2024-11-06 13:37:23,143 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client1_map.png.
+2024-11-06 13:37:23,153 - INFO - Detected 4 in top zone near.
+2024-11-06 13:37:23,154 - INFO - Detected 4 in top zone little far.
+2024-11-06 13:37:23,156 - INFO - Detected 1 in top zone far.
+2024-11-06 13:37:23,157 - INFO - Detected 4 in right zone near.
+2024-11-06 13:37:23,158 - INFO - Detected 2 in right zone little far.
+2024-11-06 13:37:23,159 - INFO - Detected 1 in right zone far.
+2024-11-06 13:37:23,160 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:37:23,161 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:37:23,163 - INFO - Detected 1 in bottom zone far.
+2024-11-06 13:37:23,163 - INFO - Detected 4 in left zone near.
+2024-11-06 13:37:23,164 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:37:23,164 - INFO - Detected 4 in left zone far.
+2024-11-06 13:37:23,165 - INFO - Output saved to temp/density/density_client1.csv
+2024-11-06 13:37:33,288 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client1_map.png.
+2024-11-06 13:37:33,300 - INFO - Detected 4 in top zone near.
+2024-11-06 13:37:33,301 - INFO - Detected 4 in top zone little far.
+2024-11-06 13:37:33,302 - INFO - Detected 1 in top zone far.
+2024-11-06 13:37:33,303 - INFO - Detected 4 in right zone near.
+2024-11-06 13:37:33,303 - INFO - Detected 2 in right zone little far.
+2024-11-06 13:37:33,304 - INFO - Detected 1 in right zone far.
+2024-11-06 13:37:33,305 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:37:33,305 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:37:33,306 - INFO - Detected 1 in bottom zone far.
+2024-11-06 13:37:33,307 - INFO - Detected 4 in left zone near.
+2024-11-06 13:37:33,307 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:37:33,307 - INFO - Detected 4 in left zone far.
+2024-11-06 13:37:33,308 - INFO - Output saved to temp/density/density_client1.csv
+2024-11-06 13:37:33,338 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client2_map.png.
+2024-11-06 13:37:33,342 - INFO - Detected 4 in top zone near.
+2024-11-06 13:37:33,343 - INFO - Detected 2 in top zone little far.
+2024-11-06 13:37:33,345 - INFO - Detected 2 in top zone far.
+2024-11-06 13:37:33,346 - INFO - Detected 1 in right zone near.
+2024-11-06 13:37:33,346 - INFO - Detected 1 in right zone little far.
+2024-11-06 13:37:33,347 - INFO - Detected 1 in right zone far.
+2024-11-06 13:37:33,347 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:37:33,347 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:37:33,348 - INFO - Detected 2 in bottom zone far.
+2024-11-06 13:37:33,348 - INFO - Detected 4 in left zone near.
+2024-11-06 13:37:33,348 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:37:33,350 - INFO - Detected 4 in left zone far.
+2024-11-06 13:37:33,350 - INFO - Output saved to temp/density/density_client2.csv
+2024-11-06 13:38:03,697 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client1_map.png.
+2024-11-06 13:38:03,713 - INFO - Detected 4 in top zone near.
+2024-11-06 13:38:03,713 - INFO - Detected 4 in top zone little far.
+2024-11-06 13:38:03,713 - INFO - Detected 1 in top zone far.
+2024-11-06 13:38:03,719 - INFO - Detected 4 in right zone near.
+2024-11-06 13:38:03,719 - INFO - Detected 2 in right zone little far.
+2024-11-06 13:38:03,719 - INFO - Detected 1 in right zone far.
+2024-11-06 13:38:03,720 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:38:03,720 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:38:03,720 - INFO - Detected 1 in bottom zone far.
+2024-11-06 13:38:03,720 - INFO - Detected 4 in left zone near.
+2024-11-06 13:38:03,720 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:38:03,720 - INFO - Detected 4 in left zone far.
+2024-11-06 13:38:03,725 - INFO - Output saved to temp/density/density_client1.csv
+2024-11-06 13:38:03,750 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client2_map.png.
+2024-11-06 13:38:03,752 - INFO - Detected 4 in top zone near.
+2024-11-06 13:38:03,752 - INFO - Detected 2 in top zone little far.
+2024-11-06 13:38:03,752 - INFO - Detected 2 in top zone far.
+2024-11-06 13:38:03,761 - INFO - Detected 1 in right zone near.
+2024-11-06 13:38:03,761 - INFO - Detected 1 in right zone little far.
+2024-11-06 13:38:03,761 - INFO - Detected 1 in right zone far.
+2024-11-06 13:38:03,761 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:38:03,761 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:38:03,761 - INFO - Detected 2 in bottom zone far.
+2024-11-06 13:38:03,761 - INFO - Detected 4 in left zone near.
+2024-11-06 13:38:03,761 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:38:03,761 - INFO - Detected 4 in left zone far.
+2024-11-06 13:38:03,761 - INFO - Output saved to temp/density/density_client2.csv
+2024-11-06 13:38:13,863 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client1_map.png.
+2024-11-06 13:38:13,872 - INFO - Detected 4 in top zone near.
+2024-11-06 13:38:13,872 - INFO - Detected 4 in top zone little far.
+2024-11-06 13:38:13,872 - INFO - Detected 1 in top zone far.
+2024-11-06 13:38:13,872 - INFO - Detected 4 in right zone near.
+2024-11-06 13:38:13,872 - INFO - Detected 2 in right zone little far.
+2024-11-06 13:38:13,872 - INFO - Detected 1 in right zone far.
+2024-11-06 13:38:13,872 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:38:13,872 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:38:13,872 - INFO - Detected 1 in bottom zone far.
+2024-11-06 13:38:13,872 - INFO - Detected 4 in left zone near.
+2024-11-06 13:38:13,872 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:38:13,872 - INFO - Detected 4 in left zone far.
+2024-11-06 13:38:13,872 - INFO - Output saved to temp/density/density_client1.csv
+2024-11-06 13:38:13,916 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client2_map.png.
+2024-11-06 13:38:13,917 - INFO - Detected 4 in top zone near.
+2024-11-06 13:38:13,920 - INFO - Detected 2 in top zone little far.
+2024-11-06 13:38:13,920 - INFO - Detected 2 in top zone far.
+2024-11-06 13:38:13,920 - INFO - Detected 1 in right zone near.
+2024-11-06 13:38:13,920 - INFO - Detected 1 in right zone little far.
+2024-11-06 13:38:13,924 - INFO - Detected 1 in right zone far.
+2024-11-06 13:38:13,924 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:38:13,924 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:38:13,924 - INFO - Detected 2 in bottom zone far.
+2024-11-06 13:38:13,924 - INFO - Detected 4 in left zone near.
+2024-11-06 13:38:13,924 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:38:13,924 - INFO - Detected 4 in left zone far.
+2024-11-06 13:38:13,924 - INFO - Output saved to temp/density/density_client2.csv
+2024-11-06 13:38:44,379 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client1_map.png.
+2024-11-06 13:38:44,389 - INFO - Detected 4 in top zone near.
+2024-11-06 13:38:44,389 - INFO - Detected 4 in top zone little far.
+2024-11-06 13:38:44,395 - INFO - Detected 4 in top zone far.
+2024-11-06 13:38:44,395 - INFO - Detected 2 in right zone near.
+2024-11-06 13:38:44,395 - INFO - Detected 1 in right zone little far.
+2024-11-06 13:38:44,398 - INFO - Detected 1 in right zone far.
+2024-11-06 13:38:44,398 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:38:44,399 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:38:44,399 - INFO - Detected 1 in bottom zone far.
+2024-11-06 13:38:44,399 - INFO - Detected 4 in left zone near.
+2024-11-06 13:38:44,399 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:38:44,399 - INFO - Detected 4 in left zone far.
+2024-11-06 13:38:44,403 - INFO - Output saved to temp/density/density_client1.csv
+2024-11-06 13:38:44,429 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client2_map.png.
+2024-11-06 13:38:44,434 - INFO - Detected 4 in top zone near.
+2024-11-06 13:38:44,434 - INFO - Detected 2 in top zone little far.
+2024-11-06 13:38:44,437 - INFO - Detected 2 in top zone far.
+2024-11-06 13:38:44,438 - INFO - Detected 1 in right zone near.
+2024-11-06 13:38:44,438 - INFO - Detected 1 in right zone little far.
+2024-11-06 13:38:44,438 - INFO - Detected 1 in right zone far.
+2024-11-06 13:38:44,438 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:38:44,442 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:38:44,442 - INFO - Detected 2 in bottom zone far.
+2024-11-06 13:38:44,442 - INFO - Detected 4 in left zone near.
+2024-11-06 13:38:44,442 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:38:44,442 - INFO - Detected 4 in left zone far.
+2024-11-06 13:38:44,442 - INFO - Output saved to temp/density/density_client2.csv
+2024-11-06 13:38:54,564 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client1_map.png.
+2024-11-06 13:38:54,574 - INFO - Detected 4 in top zone near.
+2024-11-06 13:38:54,575 - INFO - Detected 4 in top zone little far.
+2024-11-06 13:38:54,576 - INFO - Detected 4 in top zone far.
+2024-11-06 13:38:54,577 - INFO - Detected 2 in right zone near.
+2024-11-06 13:38:54,578 - INFO - Detected 1 in right zone little far.
+2024-11-06 13:38:54,579 - INFO - Detected 1 in right zone far.
+2024-11-06 13:38:54,579 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:38:54,580 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:38:54,582 - INFO - Detected 1 in bottom zone far.
+2024-11-06 13:38:54,582 - INFO - Detected 4 in left zone near.
+2024-11-06 13:38:54,583 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:38:54,583 - INFO - Detected 4 in left zone far.
+2024-11-06 13:38:54,584 - INFO - Output saved to temp/density/density_client1.csv
+2024-11-06 13:38:54,609 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client2_map.png.
+2024-11-06 13:38:54,612 - INFO - Detected 4 in top zone near.
+2024-11-06 13:38:54,613 - INFO - Detected 2 in top zone little far.
+2024-11-06 13:38:54,615 - INFO - Detected 2 in top zone far.
+2024-11-06 13:38:54,615 - INFO - Detected 4 in right zone near.
+2024-11-06 13:38:54,616 - INFO - Detected 4 in right zone little far.
+2024-11-06 13:38:54,616 - INFO - Detected 4 in right zone far.
+2024-11-06 13:38:54,616 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:38:54,617 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:38:54,618 - INFO - Detected 2 in bottom zone far.
+2024-11-06 13:38:54,618 - INFO - Detected 4 in left zone near.
+2024-11-06 13:38:54,618 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:38:54,618 - INFO - Detected 4 in left zone far.
+2024-11-06 13:38:54,619 - INFO - Output saved to temp/density/density_client2.csv
+2024-11-06 13:39:24,940 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client1_map.png.
+2024-11-06 13:39:24,951 - INFO - Detected 4 in top zone near.
+2024-11-06 13:39:24,952 - INFO - Detected 4 in top zone little far.
+2024-11-06 13:39:24,952 - INFO - Detected 4 in top zone far.
+2024-11-06 13:39:24,953 - INFO - Detected 2 in right zone near.
+2024-11-06 13:39:24,954 - INFO - Detected 1 in right zone little far.
+2024-11-06 13:39:24,954 - INFO - Detected 1 in right zone far.
+2024-11-06 13:39:24,955 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:39:24,956 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:39:24,958 - INFO - Detected 1 in bottom zone far.
+2024-11-06 13:39:24,959 - INFO - Detected 4 in left zone near.
+2024-11-06 13:39:24,959 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:39:24,959 - INFO - Detected 4 in left zone far.
+2024-11-06 13:39:24,960 - INFO - Output saved to temp/density/density_client1.csv
+2024-11-06 13:39:24,984 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client2_map.png.
+2024-11-06 13:39:24,989 - INFO - Detected 4 in top zone near.
+2024-11-06 13:39:24,990 - INFO - Detected 2 in top zone little far.
+2024-11-06 13:39:24,992 - INFO - Detected 2 in top zone far.
+2024-11-06 13:39:24,992 - INFO - Detected 4 in right zone near.
+2024-11-06 13:39:24,992 - INFO - Detected 4 in right zone little far.
+2024-11-06 13:39:24,993 - INFO - Detected 4 in right zone far.
+2024-11-06 13:39:24,993 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:39:24,993 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:39:24,995 - INFO - Detected 2 in bottom zone far.
+2024-11-06 13:39:24,995 - INFO - Detected 4 in left zone near.
+2024-11-06 13:39:24,995 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:39:24,996 - INFO - Detected 4 in left zone far.
+2024-11-06 13:39:24,997 - INFO - Output saved to temp/density/density_client2.csv
+2024-11-06 13:39:35,086 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client1_map.png.
+2024-11-06 13:39:35,099 - INFO - Detected 4 in top zone near.
+2024-11-06 13:39:35,100 - INFO - Detected 4 in top zone little far.
+2024-11-06 13:39:35,101 - INFO - Detected 4 in top zone far.
+2024-11-06 13:39:35,102 - INFO - Detected 2 in right zone near.
+2024-11-06 13:39:35,102 - INFO - Detected 1 in right zone little far.
+2024-11-06 13:39:35,103 - INFO - Detected 1 in right zone far.
+2024-11-06 13:39:35,103 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:39:35,104 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:39:35,105 - INFO - Detected 1 in bottom zone far.
+2024-11-06 13:39:35,105 - INFO - Detected 4 in left zone near.
+2024-11-06 13:39:35,105 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:39:35,106 - INFO - Detected 4 in left zone far.
+2024-11-06 13:39:35,106 - INFO - Output saved to temp/density/density_client1.csv
+2024-11-06 13:39:35,138 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client2_map.png.
+2024-11-06 13:39:35,142 - INFO - Detected 4 in top zone near.
+2024-11-06 13:39:35,143 - INFO - Detected 2 in top zone little far.
+2024-11-06 13:39:35,144 - INFO - Detected 2 in top zone far.
+2024-11-06 13:39:35,145 - INFO - Detected 4 in right zone near.
+2024-11-06 13:39:35,145 - INFO - Detected 4 in right zone little far.
+2024-11-06 13:39:35,145 - INFO - Detected 4 in right zone far.
+2024-11-06 13:39:35,146 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:39:35,146 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:39:35,147 - INFO - Detected 2 in bottom zone far.
+2024-11-06 13:39:35,147 - INFO - Detected 4 in left zone near.
+2024-11-06 13:39:35,147 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:39:35,147 - INFO - Detected 4 in left zone far.
+2024-11-06 13:39:35,148 - INFO - Output saved to temp/density/density_client2.csv
+2024-11-06 13:40:05,634 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client1_map.png.
+2024-11-06 13:40:05,646 - INFO - Detected 4 in top zone near.
+2024-11-06 13:40:05,647 - INFO - Detected 4 in top zone little far.
+2024-11-06 13:40:05,647 - INFO - Detected 4 in top zone far.
+2024-11-06 13:40:05,648 - INFO - Detected 4 in right zone near.
+2024-11-06 13:40:05,648 - INFO - Detected 1 in right zone little far.
+2024-11-06 13:40:05,649 - INFO - Detected 1 in right zone far.
+2024-11-06 13:40:05,650 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:40:05,651 - INFO - Detected 2 in bottom zone little far.
+2024-11-06 13:40:05,652 - INFO - Detected 1 in bottom zone far.
+2024-11-06 13:40:05,653 - INFO - Detected 4 in left zone near.
+2024-11-06 13:40:05,653 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:40:05,653 - INFO - Detected 4 in left zone far.
+2024-11-06 13:40:05,654 - INFO - Output saved to temp/density/density_client1.csv
+2024-11-06 13:40:05,679 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client2_map.png.
+2024-11-06 13:40:05,683 - INFO - Detected 4 in top zone near.
+2024-11-06 13:40:05,685 - INFO - Detected 2 in top zone little far.
+2024-11-06 13:40:05,687 - INFO - Detected 2 in top zone far.
+2024-11-06 13:40:05,688 - INFO - Detected 4 in right zone near.
+2024-11-06 13:40:05,688 - INFO - Detected 4 in right zone little far.
+2024-11-06 13:40:05,689 - INFO - Detected 4 in right zone far.
+2024-11-06 13:40:05,689 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:40:05,690 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:40:05,691 - INFO - Detected 2 in bottom zone far.
+2024-11-06 13:40:05,691 - INFO - Detected 4 in left zone near.
+2024-11-06 13:40:05,692 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:40:05,692 - INFO - Detected 4 in left zone far.
+2024-11-06 13:40:05,693 - INFO - Output saved to temp/density/density_client2.csv
+2024-11-06 13:40:16,029 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client1_map.png.
+2024-11-06 13:40:16,037 - INFO - Detected 4 in top zone near.
+2024-11-06 13:40:16,037 - INFO - Detected 4 in top zone little far.
+2024-11-06 13:40:16,037 - INFO - Detected 4 in top zone far.
+2024-11-06 13:40:16,037 - INFO - Detected 4 in right zone near.
+2024-11-06 13:40:16,037 - INFO - Detected 1 in right zone little far.
+2024-11-06 13:40:16,045 - INFO - Detected 1 in right zone far.
+2024-11-06 13:40:16,046 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:40:16,046 - INFO - Detected 2 in bottom zone little far.
+2024-11-06 13:40:16,047 - INFO - Detected 1 in bottom zone far.
+2024-11-06 13:40:16,047 - INFO - Detected 4 in left zone near.
+2024-11-06 13:40:16,047 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:40:16,047 - INFO - Detected 4 in left zone far.
+2024-11-06 13:40:16,047 - INFO - Output saved to temp/density/density_client1.csv
+2024-11-06 13:40:16,075 - INFO - Image loaded successfully from C:/Users/kusha/Downloads/Capstone/Everything-Server/server/temp/images\client2_map.png.
+2024-11-06 13:40:16,075 - INFO - Detected 4 in top zone near.
+2024-11-06 13:40:16,079 - INFO - Detected 2 in top zone little far.
+2024-11-06 13:40:16,080 - INFO - Detected 2 in top zone far.
+2024-11-06 13:40:16,080 - INFO - Detected 4 in right zone near.
+2024-11-06 13:40:16,080 - INFO - Detected 4 in right zone little far.
+2024-11-06 13:40:16,080 - INFO - Detected 4 in right zone far.
+2024-11-06 13:40:16,080 - INFO - Detected 4 in bottom zone near.
+2024-11-06 13:40:16,080 - INFO - Detected 4 in bottom zone little far.
+2024-11-06 13:40:16,080 - INFO - Detected 1 in bottom zone far.
+2024-11-06 13:40:16,080 - INFO - Detected 4 in left zone near.
+2024-11-06 13:40:16,080 - INFO - Detected 4 in left zone little far.
+2024-11-06 13:40:16,080 - INFO - Detected 4 in left zone far.
+2024-11-06 13:40:16,080 - INFO - Output saved to temp/density/density_client2.csv
