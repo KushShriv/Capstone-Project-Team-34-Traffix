@@ -7,14 +7,18 @@ git clone https://github.com/KushShriv/Capstone-Project-Team-34-Traffix.git
 git remote add origin https://github.com/KushShriv/Capstone-Project-Team-34-Traffix.git
 ```
 
-Run the following in Server:
+Run the following:
 
+1. Server Logic
 ```
-run_all.sh
+cd server
+./run_all.sh
 ```
 
-Run Each Client on a Different Terminal
+2. Run the 2 demo clients
+```
+cd ../clients
+./run_clients.sh
+```
 
-
-
-Logs could be tracked at /logs at both client and server.
+3. Logs could be tracked at /logs at both client and server.
